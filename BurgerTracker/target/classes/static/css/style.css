@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+body {
+	margin: 0 auto;
+	width: 50%;
+}
+
+h1 {
+	text-align: center;
+    color: blue;
+}
+
+.card {
+	margin-top: 50px;
+}
